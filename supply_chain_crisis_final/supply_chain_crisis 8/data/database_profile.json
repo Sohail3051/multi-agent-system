@@ -1,0 +1,14 @@
+{
+  "PurchaseOrders": 25000,
+  "PurchaseOrderLines": 62730,
+  "ShipmentTracking": 100000,
+  "WarehouseInventory": 12,
+  "SupplierMaster": 4,
+  "RawMaterialsMaster": 4,
+  "WarehouseMaster": 3,
+  "CarriersMaster": 4,
+  "CustomerSalesOrders": 100000,
+  "FulfillmentStatus": 100000,
+  "StockMovements": 15922,
+  "SupplierPerformance": 4
+}
